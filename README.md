@@ -1,2 +1,2 @@
 # rust-tutorial
-http://127.0.0.1:8000/
+https://bbounc.github.io/comp423-course-notes/tutorials/rust-tutorial/
